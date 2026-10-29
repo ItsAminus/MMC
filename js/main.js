@@ -219,7 +219,11 @@ function createClinicBookingModal(locationKey) {
               <span>&rarr;</span>
             </a>
             <a href="${BOOKING_LINKS.orleans.general}" target="_blank" rel="noopener" class="modal-action-button">
-              <span><strong>New Patient / General Booking</strong><br><small style="color:var(--text-muted);">Dr. Iqbal Kashif, Dr. Imran Malik, Dr. Hasnain Sadiq</small></span>
+              <span><strong>New Patient / General Booking</strong><br><small style="color:var(--text-muted);">Dr. Iqbal Kashif, Dr. Hasnain Sadiq, Dr. Ijang Yunga</small></span>
+              <span>&rarr;</span>
+            </a>
+            <a href="${BOOKING_LINKS.orleans.general}" target="_blank" rel="noopener" class="modal-action-button" style="border-left: 4px solid #0ea5e9;">
+              <span><strong>Walk-In Clinic (Dr. Ijang Yunga)</strong><br><small style="color:var(--text-muted);">Same-day walk-in consults & acute episodic care</small></span>
               <span>&rarr;</span>
             </a>
             <a href="dr-sadiku.html" class="modal-action-button" style="border-left: 4px solid var(--accent-purple);">
